@@ -6,4 +6,4 @@ The website is being built using Bootstrap 3.3.7
 
 All the HTML, CSS files are included in the repo.
 
-Do not heaisate to contact me for comments: cubanlodging@gmail.com
+Do not heaisate to contact me for comments: cuban.lodging@gmail.com
