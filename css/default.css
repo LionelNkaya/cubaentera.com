@@ -6,7 +6,7 @@
 .bigbox {
 	border: 1px blue dotted;
 }
-
+*/
 .contentbox {
 	border: 1px green dotted;
 	padding: 0;
@@ -15,7 +15,7 @@
 .bigbox {
 	border: 1px blue dotted;
 }
-*/
+
 .container {
 	max-width: 1000px;
 }
@@ -42,6 +42,10 @@
 .profile aside ul {
 	list-style: none;
 	padding: 0px;
+}
+
+.leftvideo {
+	padding: 40px;
 }
 
 
