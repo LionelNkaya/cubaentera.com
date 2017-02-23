@@ -1,6 +1,6 @@
 Welcome to Cubaentera.com Repo !
 
-This website is currently under contruction and is being created for the group Cuban Lodging.
+This website is currently under contruction and is being created for the ecotourism group Cuban Lodgin.
 
 The website is being built using Bootstrap 3.3.7
 

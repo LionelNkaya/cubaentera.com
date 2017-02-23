@@ -1,12 +1,7 @@
-/*.profilebox {
+/* .profilebox {
 	border: 1px red dotted;
 }
 
-
-.bigbox {
-	border: 1px blue dotted;
-}
-*/
 .contentbox {
 	border: 1px green dotted;
 	padding: 0;
@@ -19,6 +14,8 @@
 .container {
 	max-width: 1000px;
 }
+
+*/
 
 .fb-like {
 	padding: 0;
@@ -44,8 +41,8 @@
 	padding: 0px;
 }
 
-.leftvideo {
-	padding: 40px;
+.video {
+	padding-top: 20px;
 }
 
 
